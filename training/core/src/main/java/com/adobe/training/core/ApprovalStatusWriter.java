@@ -19,7 +19,7 @@ import org.osgi.framework.Constants;
 				       Constants.SERVICE_VENDOR + "=Adobe",
 				       "process.label=Approval Status Writer"
 		   })
-//this is a test new!!!!dfgdfgdtest
+//For author and publish
 
 public class ApprovalStatusWriter implements WorkflowProcess {
 
